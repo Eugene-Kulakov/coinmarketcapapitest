@@ -3,7 +3,6 @@ from requests import Session
 import json
 from time import time
 from datetime import datetime
-from sys import getsizeof
 
 
 def gettickerslist():
